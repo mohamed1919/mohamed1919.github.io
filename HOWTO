@@ -1,0 +1,4 @@
+# script for uploading to github
+git add .
+git commit -m "hotel site - generic upload"
+git push -u origin master
